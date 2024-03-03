@@ -1,2 +1,2 @@
-#my package
-This library was created as an example of how to publish ypur own python package.
+# my package
+This library was created as an example of how to publish your own python package.
